@@ -145,3 +145,16 @@ Feel free to add your own creative touches for bonus points:
 - Additional character classes beyond the three required
 - More weapon types with different properties
 - Enhanced special abilities with unique effects
+
+
+Bonus Creative Features:
+I didn’t add any extra or unique features beyond the different attack calculations and stat variations for each character.
+
+AI Usage:
+I used AI to help with debugging and to better understand certain parts of my methods.
+
+How to Run:
+1.Open the Python file in your IDE (such as PyCharm or VS Code).
+2.Run the program.
+3.Follow any on-screen prompts to test the characters’ attacks and interactions.
+
